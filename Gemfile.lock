@@ -107,6 +107,7 @@ DEPENDENCIES
   launchy
   poltergeist
   pry
+  rack
   rack-test
   rake
   require_all
@@ -117,4 +118,4 @@ DEPENDENCIES
   sinatra-activerecord
 
 BUNDLED WITH
-   1.11.2
+   1.15.1
